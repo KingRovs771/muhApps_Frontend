@@ -71,4 +71,7 @@ export default function Home() {
           <img src="https://images.pexels.com/photos/1759531/pexels-photo-1759531.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Profile Picture" className="h-9 w-9 object-cover rounded-full" />
         </div>
         Content Right
-      </di
+      </div>
+    </div>
+  );
+}
